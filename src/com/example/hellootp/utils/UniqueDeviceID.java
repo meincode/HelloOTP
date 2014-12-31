@@ -2,9 +2,10 @@ package com.example.hellootp.utils;
 
 import java.util.UUID;
 
+
 import android.content.Context;
 import android.telephony.TelephonyManager;
-
+// http://jinmanp.tistory.com/entry/Android-단말기-고유값-생성Device-Unique-ID
 //단말기 고유값 추출 클래스
 public class UniqueDeviceID {
  
